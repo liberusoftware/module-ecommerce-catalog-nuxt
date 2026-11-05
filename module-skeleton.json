@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-catalog-nuxt",
+  "capabilityKey": "planned:ecommerce:catalog",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-catalog-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/catalog.md",
+  "presentationPlan": "projects/ecommerce/nuxt/catalog.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
